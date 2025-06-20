@@ -5,18 +5,18 @@
 ## معاينة الصفحات 
 
 ##  اولا صفحة ادخال الايميل والتاكد انه موجود في قاعدة البيانات 
-![]()
+![](https://github.com/albna3681/forgot-password-system-php/blob/main/FireShot%20Capture%20045%20-%20%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1%20-%20%5Baldhihaexams.com%5D.png)
 
 ##  ثانيا لو موجود يرسل الكود ويفتح جزء تغيير كلمة السر وكتابة كود التحقق
-![]()
+![](https://github.com/albna3681/forgot-password-system-php/blob/main/FireShot%20Capture%20046%20-%20%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1%20-%20%5Baldhihaexams.com%5D.png)
 
 
 ##  ده كود التحقق وهو تم ارساله لايميل المستخدم اللي دخله
-![]()
+![](https://github.com/albna3681/forgot-password-system-php/blob/main/FireShot%20Capture%20048%20-%20%D8%B1%D9%85%D8%B2%20%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82%20%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1%20-%20almligy20118%40gmail.com%20-%20Gmail_%20-%20%5Bmail.google.com%5D.png)
 
 
 ##  ده بعد ما تم تغيير كلمة السر
-![]()
+![](https://github.com/albna3681/forgot-password-system-php/blob/main/FireShot%20Capture%20049%20-%20%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1%20-%20%5Baldhihaexams.com%5D.png)
 
 
 
