@@ -62,8 +62,7 @@ curl -sS https://getcomposer.org/installer | php
 
 تثبيت PHPMailer
 composer require phpmailer/phpmailer
-
-لف composer.json
+ملف composer.json
 
 json
 {
